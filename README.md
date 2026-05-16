@@ -8,17 +8,20 @@ This project is an introduction to the basics of Burp Suite. Burp Suite is a fra
 
 <h2>Tools Used</h2>
 
-- <b>Burp Suite</b> 
+- <b>Burp Suite</b>
+- <b>Burp Proxy</b>
 
-<h2>Burp Suite Proxy Walkthrough:</h2>
+<h2>Burp Proxy Walkthrough:</h2>
 
 <p align="center">
-Launch the attacking VM: <br/>
-<img src="https://github.com/Kieyontay/NmapLab/blob/main/Kali%20System%20Startup.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Connecting through the Proxy: <br/>
+<img src="https://github.com/Kieyontay/Burp-Suite/blob/main/Proxy%20Configuration.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Launch the target VM:  <br/>
-<img src="https://github.com/Kieyontay/NmapLab/blob/main/Metasploitable%202%20Startup.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Burp Proxy Configuration:  <br/>
+<img src="https://github.com/Kieyontay/Burp-Suite/blob/main/Proxy%20Details.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+
+
 <br />
 <br />
 Run Nmap 192.168.69.2: <br/>
